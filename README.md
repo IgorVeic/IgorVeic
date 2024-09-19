@@ -1,5 +1,9 @@
 # 💫 About Me:
-🚀 I am currently diving into full-stack programming, mastering technologies like HTML, CSS, JavaScript, Node.js, Nest.js, Express, MongoDB, PostgreSQL, Angular, React, and NextJS.<br><br>💡 Along with building my technical skills, I'm actively exploring opportunities to start a career in programming, seeking to apply my knowledge in real-world projects.<br><br>🌱 I'm passionate about continuous learning, constantly improving my coding abilities, and keeping up with the latest trends in web development.<br><br>🔧 I enjoy tackling complex challenges, finding efficient solutions, and collaborating with teams to build impactful, user-friendly applications.<br><br>📈 As I advance my skills, I'm excited to contribute to innovative projects, whether in front-end development, back-end infrastructure, or full-stack solutions.<br><br>
+🚀 I'm on an exciting journey in full-stack programming, mastering a wide range of technologies including HTML, CSS, JavaScript, Node.js, NestJS, Express, MongoDB, PostgreSQL, Angular, React, and NextJS.
+💡 Actively seeking opportunities to launch my career in programming, I'm eager to apply my skills to real-world projects that make an impact.
+🌱 Passionate about continuous learning, I stay ahead of web development trends while constantly refining my coding abilities. Whether it's developing responsive front-end interfaces, designing scalable back-end architectures, or creating seamless full-stack solutions, I’m always driven to improve.
+🔧 I thrive on solving complex problems, optimizing for performance, and collaborating with teams to build impactful, user-centered applications.
+📈 With a strong foundation in both front-end and back-end development, I’m excited to contribute to innovative projects and take on new challenges that push the boundaries of what's possible.<br><br>
 
 
 ## 🌐 Socials:
